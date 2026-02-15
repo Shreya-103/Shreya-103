@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shreya-103 </h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate web developer from India.</h3>
 
 - 🔭 I have completed my internship from BEL and made a project during the internship. [Employee Entry System](https://shreya-103.github.io/employee-entry-login)
 
