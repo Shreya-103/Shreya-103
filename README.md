@@ -3,7 +3,7 @@
 
 - 🔭 I have completed my internship from BEL and made a project during the internship. [Employee Entry System](https://shreya-103.github.io/employee-entry-login)
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently making **full stack project**
 
 - 👨‍💻 All of my projects are available at [https://shreya-103.github.io/Portfolio](https://shreya-103.github.io/Portfolio)
 
