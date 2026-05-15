@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently making **full stack project**
 
-- 👨‍💻 All of my projects are available at [https://shreya-103.github.io/Portfolio](https://shreya-103.github.io/Portfolio)
+- 👨‍💻 Few of my important projects are available at [https://shreya-103.github.io/Portfolio](https://shreya-103.github.io/Portfolio)
 
 - 🙌 MY EXPREIENCE **Web design intern @EntireDigitalSolutions and BharatElectonicsLimited**
 
