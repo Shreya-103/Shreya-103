@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya</h1>
+<h1 align="center">Hi 👋, I'm Shreya Jha</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
 - 🔭 I have completed my internship from BEL and made a project during the internship. [Employee Entry System](https://employee-entry-login.netlify.app)
