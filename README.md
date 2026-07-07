@@ -8,7 +8,7 @@
 - 👨‍💻 Few of my important projects are available at: https://shreya-103.github.io/Portfolio-2.0
 - 🙌 MY EXPREIENCE **Web design intern @EntireDigitalSolutions and BharatElectonicsLimited**
 
-- 📫 How to reach me **shreyaalpha1@gmail.com**
+- 📫 mail me here:- **shreyaalpha1@gmail.com**
 
 <p align="left">
 </p>
