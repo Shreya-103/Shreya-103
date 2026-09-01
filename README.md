@@ -4,7 +4,7 @@
 - 🔭 I have completed my internship from BEL and made a project during the internship. [Employee Entry System](https://employee-entry-login.netlify.app)
 
 <!--- 🌱 I’m currently making **full stack project** -->
-- i am currently giving my **6th semester examination** 
+- i have completed my **BCA final semester exams** 
 - 👨‍💻 Few of my important projects are available at: https://shreya-103.github.io/Portfolio-2.0
 - 🙌 MY EXPREIENCE **Web design intern @EntireDigitalSolutions and BharatElectonicsLimited**
 
